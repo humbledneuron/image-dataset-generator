@@ -4,3 +4,6 @@ assets/
 README.md
 
 nextideas.text
+
+.venv
+.vscode
